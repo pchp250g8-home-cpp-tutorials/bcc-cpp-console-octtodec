@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2026.04.08 14:10:30.147,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2026.04.08 14:10:30.323,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2026.04.08 14:11:14.966,D:\Projects\Programming\CPP\BDS\Console\Algorithms\OctToDec\OctToDecPCH1.h=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2026.04.08 14:11:14.976,D:\Projects\Programming\CPP\BDS\Console\Algorithms\OctToDec\File1.cpp=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2026.04.08 14:11:14.987,D:\Projects\Programming\CPP\BDS\Console\Algorithms\OctToDec\OctToDec.cbproj=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2026.04.08 14:11:26.239,D:\Projects\Programming\CPP\BDS\Console\Algorithms\OctToDec\OctToDec.cpp=D:\Projects\Programming\CPP\BDS\Console\Algorithms\OctToDec\File1.cpp</Transaction>
+    <Transaction>2026.04.08 14:11:28.467,D:\Projects\Programming\CPP\BDS\Console\Algorithms\OctToDec\OctToDec.cbproj=D:\Projects\Programming\CPP\BDS\Console\Algorithms\OctToDec\OctToDec.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
