@@ -6,10 +6,10 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-    const unsigned int nMaxOctDigits = static_cast<unsigned int>(floor(log2(UINT32_MAX)/3));
+    const unsigned int nMaxOctDigits = static_cast<unsigned int>(ceil(log2(UINT32_MAX)/3));
     const std::regex oRegEx("^[0-7]+$");
-    unsigned int nOctPower = 1;
-    unsigned int nDecNum = 0;
+    long long nOctPower = 1L;
+    long long nDecNum = 0L;
     std::string strLine;
     system("cls");
     std::cout << "Input an octal number\r\n";
@@ -26,7 +26,7 @@ int _tmain(int argc, _TCHAR* argv[])
     {
         unsigned int nOctDigit = strLine[nStrLen - 1 - i] - '0';
         nDecNum += (nOctDigit * nOctPower);
-        nOctPower *= 8;
+        nOctPower *= 8L;
     }
     std::cout << "The decimal equivalent of the octal number "
               << strLine << " is: " << nDecNum << "\r\n";
